@@ -1,0 +1,23 @@
+# CS Foundations 🧮
+
+A collection of fundamental Data Structures and Algorithms implemented in Python.  
+This repository focuses on building efficient, well-documented, and modular code to strengthen problem-solving and computational thinking skills.
+
+## 🧠 Topics Covered
+- Arrays & Linked Lists  
+- Stacks & Queues  
+- Recursion & Backtracking  
+- Searching & Sorting  
+- Trees & Graphs  
+- Dynamic Programming  
+
+## 🔧 Tools
+- Python 3
+- Jupyter Notebook
+- Git / GitHub
+
+## 🎯 Goal
+To master the building blocks of computer science and develop clean, efficient code foundations for AI and advanced computing applications.
+
+---
+*“Before machines can learn, humans must first understand.”*
