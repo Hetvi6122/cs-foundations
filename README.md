@@ -24,5 +24,10 @@ To master the building blocks of computer science and develop clean, efficient c
 - Include Jupyter notebooks for explanation and visualization
 - Document time and space complexity for each algorithm
 
+## 🧩 Implemented Topics
+- ✅ Arrays — insert, delete, search, reverse
+- ✅ Linked Lists — insertion, deletion, traversal
+- ✅ Recursion — factorial, fibonacci
+
 ---
 *“Before machines can learn, humans must first understand.”*
