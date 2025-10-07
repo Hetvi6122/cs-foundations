@@ -19,5 +19,10 @@ This repository focuses on building efficient, well-documented, and modular code
 ## 🎯 Goal
 To master the building blocks of computer science and develop clean, efficient code foundations for AI and advanced computing applications.
 
+## 🚀 Next Steps
+- Add implementations for Arrays and Linked Lists
+- Include Jupyter notebooks for explanation and visualization
+- Document time and space complexity for each algorithm
+
 ---
 *“Before machines can learn, humans must first understand.”*
